@@ -1,0 +1,100 @@
+body{
+    background-color: rgb(150, 170, 204);
+    
+    }
+    
+    h2 {
+        background-color: rgb(70, 70, 70);
+        color: white;
+        padding-left: 10px;
+    }
+    
+    th{
+        background-color:rgb(11, 11, 112);
+        color: white;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    
+    h1{
+        text-align: center;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+    
+    h2 {
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+    
+    td {
+        text-align: center;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    
+    .math {
+        background-color: rgb(250, 15, 93);
+        color: white;
+    }
+    
+    .fund {
+        background-color: rgb(25, 207, 25);
+    }
+    
+    .ing {
+        background-color: rgb(0, 68, 255);
+        color: white;
+    }
+    
+    .so{
+        background-color: rgb(121, 31, 109);
+        color: white;
+    }
+    
+    .etic {
+        background-color: rgb(248, 148, 206);
+    }
+    
+    .intro {
+        background-color: rgb(21, 21, 97);
+        color: white;
+    }
+    
+    .prog {
+        background-color: gold;
+    }
+    
+    .res{
+        background-color: orangered;
+        color: white;
+    }
+    
+    .semi {
+        background-color: rgb(114, 75, 75);
+        color: white;
+    }
+    
+    .hora {
+        background-color: rgb(54, 54, 54);
+        color: white;
+    }
+    
+    p {
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    
+    div { 
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    
+    .for {
+        background-color: rgba(204, 204, 204, 0.747);
+        padding: 20px;
+        width: 600px;
+    }
+    
+    .vac {
+        background-color: rgb(146, 148, 150);
+    }
+    
+    img {
+        border-radius: 50%;
+    }
+    
